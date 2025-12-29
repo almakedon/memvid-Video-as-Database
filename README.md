@@ -306,6 +306,11 @@ Check out the [examples/](examples/) directory for:
 - Real-time memory updates
 - Integration with popular LLMs
 
+## MCP Servers
+ - https://github.com/ferrants/memvid-mcp-server
+ - https://github.com/angrysky56/memvid_mcp_server
+ - https://github.com/MarkAngler/memVidMCP
+
 ## 🆘 Getting Help
 
 - 📖 [Documentation](https://github.com/olow304/memvid/wiki) - Comprehensive guides
